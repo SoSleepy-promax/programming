@@ -1,0 +1,40 @@
+h1{
+    text-align : center;
+    color: purple;
+  }
+  a:hover, a:active {
+      background-color: black;
+    color: white
+  }
+  
+  
+  
+  .jobtypesLI{
+    
+    color:green;
+    
+  }
+  
+  
+  .todoLI{
+    color:red;
+    text-align:center;
+  }
+  
+  
+  body{
+    background-color:rgb(255,153,102);
+  }
+  
+  #compIMG{
+  
+  float : right;
+    
+  }
+  
+  .tableBLS {
+    color:		#ccffff;
+      text-align: right;
+     border: 1px solid black;
+  
+  }
